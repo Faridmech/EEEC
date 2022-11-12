@@ -4,7 +4,9 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <div className="image"></div>
+      <div className="image">
+        <img  src="https://eeec.az/wp-content/uploads/2019/12/edited22-scaled.jpg" />
+      </div>
       <nav className="navbar">
         <div>
           {" "}
